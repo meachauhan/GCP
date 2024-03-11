@@ -3,6 +3,8 @@
     "npm run": "npm start /Backend/index.js"
   },
   "dependencies": {
+    "mysql": "^2.18.1",
     "mysql2": "^3.9.2"
-  }
+  },
+  "type": "module"
 }
