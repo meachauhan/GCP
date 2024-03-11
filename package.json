@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "npm run": "npm start /Backend/index.js"
+  },
   "dependencies": {
     "mysql2": "^3.9.2"
   }
